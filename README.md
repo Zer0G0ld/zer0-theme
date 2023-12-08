@@ -6,3 +6,5 @@ sh -c 'curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs \
 ### configuração do neovim/nvim 
 
 <p>Arquivo init.lua</p>
+<p>~/.config/nvim/init.lua
+</p>
